@@ -4,16 +4,22 @@
 
 ## Project goals:
 
-* create an index displaying all hog tiles
-* render each hog name and picture in a tile
-* show the hog's details upon a user's click
-* filter the hogs that are greased
-* sort the hogs based on name
-* sort the hogs based on weight 
+<!-- * create an index displaying all hog tiles -->
+<!-- state hogs: 'all' -->
+<!-- * render each hog name and picture in a tile -->
+<!-- Tile component -->
+<!-- * show the hog's details upon a user's click -->
+<!-- Details component -->
+<!-- * filter the hogs that are greased -->
+<!-- setState change to greased, call filter function -->
+<!-- * sort the hogs based on name -->
+<!-- sort hogs array before parsing and rendering? -->
+<!-- * sort the hogs based on weight  -->
+<!-- see above -->
 
-* BONUS: allow users to hide hogs (not delete them, just hide them from view!)
+<!-- * BONUS: allow users to hide hogs (not delete them, just hide them from view!) -->
 * BONUS: bring in pig gifs from an API
-* BONUS: implement [Semantic Cards](https://semantic-ui.com/views/card.html) for each hog
+<!-- * BONUS: implement [Semantic Cards](https://semantic-ui.com/views/card.html) for each hog -->
 
 ## Project requirements:
 
